@@ -82,10 +82,3 @@ I'm a Brand Ambassador with the DataCrumbs ChangeMakers Program and an Ambassado
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ToobaSubhan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ToobaSubhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-[![](https://komarev.com/ghpvc/?username=ToobaSubhan&icon=0&color=7aa2f7)](https://visitcount.itsvg.in)
